@@ -1,4 +1,4 @@
-# Recurrent Neural Network for Sentiment Analysis
+# Recurrent Neural Network for Sentiment Analysis (work in progress)
 
 This is a Recurrent Neural Network (i.e. RNN) for Sentiment Analysis. I am using a dataset containing IMDB reviews.
 
